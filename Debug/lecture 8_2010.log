@@ -1,0 +1,169 @@
+﻿Build started 4/6/2016 1:50:15 PM.
+     1>Project "C:\Users\gamelab\Desktop\Project 1\lecture 12\lecture 8_2010.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /IDXUT\Core /IDXUT\Optional /ZI /nologo /W4 /WX- /Od /Oi /Oy- /D WIN32 /D _DEBUG /D DEBUG /D PROFILE /D _WINDOWS /D D3DXFX_LARGEADDRESS_HANDLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /arch:SSE2 /fp:fast /Zc:wchar_t /Zc:forScope /openmp- /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt  "homework 4.cpp"
+         homework 4.cpp
+     1>c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(12): warning C4005: 'DXGI_STATUS_OCCLUDED' : macro redefinition
+                 c:\program files (x86)\windows kits\8.1\include\shared\winerror.h(50092) : see previous definition of 'DXGI_STATUS_OCCLUDED'
+     1>c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(13): warning C4005: 'DXGI_STATUS_CLIPPED' : macro redefinition
+                 c:\program files (x86)\windows kits\8.1\include\shared\winerror.h(50101) : see previous definition of 'DXGI_STATUS_CLIPPED'
+     1>c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(14): warning C4005: 'DXGI_STATUS_NO_REDIRECTION' : macro redefinition
+                 c:\program files (x86)\windows kits\8.1\include\shared\winerror.h(50110) : see previous definition of 'DXGI_STATUS_NO_REDIRECTION'
+     1>c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(15): warning C4005: 'DXGI_STATUS_NO_DESKTOP_ACCESS' : macro redefinition
+                 c:\program files (x86)\windows kits\8.1\include\shared\winerror.h(50119) : see previous definition of 'DXGI_STATUS_NO_DESKTOP_ACCESS'
+     1>c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(16): warning C4005: 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE' : macro redefinition
+                 c:\program files (x86)\windows kits\8.1\include\shared\winerror.h(50128) : see previous definition of 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE'
+     1>c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(17): warning C4005: 'DXGI_STATUS_MODE_CHANGED' : macro redefinition
+                 c:\program files (x86)\windows kits\8.1\include\shared\winerror.h(50137) : see previous definition of 'DXGI_STATUS_MODE_CHANGED'
+     1>c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(18): warning C4005: 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS' : macro redefinition
+                 c:\program files (x86)\windows kits\8.1\include\shared\winerror.h(50146) : see previous definition of 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS'
+     1>c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(21): warning C4005: 'DXGI_ERROR_INVALID_CALL' : macro redefinition
+                 c:\program files (x86)\windows kits\8.1\include\shared\winerror.h(50161) : see previous definition of 'DXGI_ERROR_INVALID_CALL'
+     1>c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(22): warning C4005: 'DXGI_ERROR_NOT_FOUND' : macro redefinition
+                 c:\program files (x86)\windows kits\8.1\include\shared\winerror.h(50170) : see previous definition of 'DXGI_ERROR_NOT_FOUND'
+     1>c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(23): warning C4005: 'DXGI_ERROR_MORE_DATA' : macro redefinition
+                 c:\program files (x86)\windows kits\8.1\include\shared\winerror.h(50179) : see previous definition of 'DXGI_ERROR_MORE_DATA'
+     1>c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(24): warning C4005: 'DXGI_ERROR_UNSUPPORTED' : macro redefinition
+                 c:\program files (x86)\windows kits\8.1\include\shared\winerror.h(50188) : see previous definition of 'DXGI_ERROR_UNSUPPORTED'
+     1>c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(25): warning C4005: 'DXGI_ERROR_DEVICE_REMOVED' : macro redefinition
+                 c:\program files (x86)\windows kits\8.1\include\shared\winerror.h(50197) : see previous definition of 'DXGI_ERROR_DEVICE_REMOVED'
+     1>c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(26): warning C4005: 'DXGI_ERROR_DEVICE_HUNG' : macro redefinition
+                 c:\program files (x86)\windows kits\8.1\include\shared\winerror.h(50206) : see previous definition of 'DXGI_ERROR_DEVICE_HUNG'
+     1>c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(27): warning C4005: 'DXGI_ERROR_DEVICE_RESET' : macro redefinition
+                 c:\program files (x86)\windows kits\8.1\include\shared\winerror.h(50216) : see previous definition of 'DXGI_ERROR_DEVICE_RESET'
+     1>c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(28): warning C4005: 'DXGI_ERROR_WAS_STILL_DRAWING' : macro redefinition
+                 c:\program files (x86)\windows kits\8.1\include\shared\winerror.h(50225) : see previous definition of 'DXGI_ERROR_WAS_STILL_DRAWING'
+     1>c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(29): warning C4005: 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT' : macro redefinition
+                 c:\program files (x86)\windows kits\8.1\include\shared\winerror.h(50235) : see previous definition of 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT'
+     1>c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(30): warning C4005: 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE' : macro redefinition
+                 c:\program files (x86)\windows kits\8.1\include\shared\winerror.h(50244) : see previous definition of 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE'
+     1>c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(31): warning C4005: 'DXGI_ERROR_DRIVER_INTERNAL_ERROR' : macro redefinition
+                 c:\program files (x86)\windows kits\8.1\include\shared\winerror.h(50254) : see previous definition of 'DXGI_ERROR_DRIVER_INTERNAL_ERROR'
+     1>c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(32): warning C4005: 'DXGI_ERROR_NONEXCLUSIVE' : macro redefinition
+                 c:\program files (x86)\windows kits\8.1\include\shared\winerror.h(50263) : see previous definition of 'DXGI_ERROR_NONEXCLUSIVE'
+     1>c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(33): warning C4005: 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE' : macro redefinition
+                 c:\program files (x86)\windows kits\8.1\include\shared\winerror.h(50272) : see previous definition of 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE'
+     1>c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(34): warning C4005: 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED' : macro redefinition
+                 c:\program files (x86)\windows kits\8.1\include\shared\winerror.h(50282) : see previous definition of 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED'
+     1>c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(35): warning C4005: 'DXGI_ERROR_REMOTE_OUTOFMEMORY' : macro redefinition
+                 c:\program files (x86)\windows kits\8.1\include\shared\winerror.h(50291) : see previous definition of 'DXGI_ERROR_REMOTE_OUTOFMEMORY'
+     1>c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(917): warning C4005: 'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS' : macro redefinition
+                 c:\program files (x86)\windows kits\8.1\include\shared\winerror.h(50469) : see previous definition of 'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS'
+     1>c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(918): warning C4005: 'D3D11_ERROR_FILE_NOT_FOUND' : macro redefinition
+                 c:\program files (x86)\windows kits\8.1\include\shared\winerror.h(50478) : see previous definition of 'D3D11_ERROR_FILE_NOT_FOUND'
+     1>c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(919): warning C4005: 'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS' : macro redefinition
+                 c:\program files (x86)\windows kits\8.1\include\shared\winerror.h(50488) : see previous definition of 'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS'
+     1>c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(920): warning C4005: 'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD' : macro redefinition
+                 c:\program files (x86)\windows kits\8.1\include\shared\winerror.h(50497) : see previous definition of 'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD'
+     1>c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d10.h(608): warning C4005: 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS' : macro redefinition
+                 c:\program files (x86)\windows kits\8.1\include\shared\winerror.h(50445) : see previous definition of 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS'
+     1>c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d10.h(609): warning C4005: 'D3D10_ERROR_FILE_NOT_FOUND' : macro redefinition
+                 c:\program files (x86)\windows kits\8.1\include\shared\winerror.h(50454) : see previous definition of 'D3D10_ERROR_FILE_NOT_FOUND'
+     1>c:\users\gamelab\desktop\project 1\lecture 12\groundwork.h(59): warning C4552: '/' : operator has no effect; expected operator with side-effect
+     1>c:\users\gamelab\desktop\project 1\lecture 12\groundwork.h(93): warning C4100: 'ViewMatrix' : unreferenced formal parameter
+     1>c:\users\gamelab\desktop\project 1\lecture 12\groundwork.h(236): warning C4244: 'argument' : conversion from 'int' to 'FLOAT', possible loss of data
+     1>c:\users\gamelab\desktop\project 1\lecture 12\groundwork.h(238): warning C4244: 'argument' : conversion from 'int' to 'FLOAT', possible loss of data
+     1>c:\users\gamelab\desktop\project 1\lecture 12\groundwork.h(240): warning C4244: 'argument' : conversion from 'int' to 'FLOAT', possible loss of data
+     1>c:\users\gamelab\desktop\project 1\lecture 12\groundwork.h(242): warning C4244: 'argument' : conversion from 'int' to 'FLOAT', possible loss of data
+     1>c:\users\gamelab\desktop\project 1\lecture 12\groundwork.h(247): warning C4244: 'argument' : conversion from 'int' to 'FLOAT', possible loss of data
+     1>c:\users\gamelab\desktop\project 1\lecture 12\groundwork.h(252): warning C4244: 'argument' : conversion from 'int' to 'FLOAT', possible loss of data
+     1>c:\users\gamelab\desktop\project 1\lecture 12\groundwork.h(285): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\gamelab\desktop\project 1\lecture 12\groundwork.h(290): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\gamelab\desktop\project 1\lecture 12\groundwork.h(310): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\gamelab\desktop\project 1\lecture 12\groundwork.h(314): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\gamelab\desktop\project 1\lecture 12\groundwork.h(359): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\gamelab\desktop\project 1\lecture 12\groundwork.h(375): warning C4244: '-=' : conversion from 'double' to 'FLOAT', possible loss of data
+     1>c:\users\gamelab\desktop\project 1\lecture 12\groundwork.h(376): warning C4244: '-=' : conversion from 'double' to 'FLOAT', possible loss of data
+     1>c:\users\gamelab\desktop\project 1\lecture 12\groundwork.h(377): warning C4244: '-=' : conversion from 'double' to 'FLOAT', possible loss of data
+     1>c:\users\gamelab\desktop\project 1\lecture 12\groundwork.h(381): warning C4244: '+=' : conversion from 'double' to 'FLOAT', possible loss of data
+     1>c:\users\gamelab\desktop\project 1\lecture 12\groundwork.h(382): warning C4244: '+=' : conversion from 'double' to 'FLOAT', possible loss of data
+     1>c:\users\gamelab\desktop\project 1\lecture 12\groundwork.h(383): warning C4244: '+=' : conversion from 'double' to 'FLOAT', possible loss of data
+     1>c:\users\gamelab\desktop\project 1\lecture 12\groundwork.h(411): warning C4244: '=' : conversion from 'double' to 'FLOAT', possible loss of data
+     1>c:\users\gamelab\desktop\project 1\lecture 12\groundwork.h(412): warning C4244: '=' : conversion from 'double' to 'FLOAT', possible loss of data
+     1>c:\users\gamelab\desktop\project 1\lecture 12\groundwork.h(413): warning C4244: '=' : conversion from 'double' to 'FLOAT', possible loss of data
+     1>c:\users\gamelab\desktop\project 1\lecture 12\homework 4.cpp(83): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>c:\users\gamelab\desktop\project 1\lecture 12\homework 4.cpp(623): warning C4244: '=' : conversion from 'double' to 'FLOAT', possible loss of data
+     1>c:\users\gamelab\desktop\project 1\lecture 12\homework 4.cpp(619): warning C4100: 'keyFlags' : unreferenced formal parameter
+     1>c:\users\gamelab\desktop\project 1\lecture 12\homework 4.cpp(619): warning C4100: 'y' : unreferenced formal parameter
+     1>c:\users\gamelab\desktop\project 1\lecture 12\homework 4.cpp(619): warning C4100: 'x' : unreferenced formal parameter
+     1>c:\users\gamelab\desktop\project 1\lecture 12\homework 4.cpp(619): warning C4100: 'fDoubleClick' : unreferenced formal parameter
+     1>c:\users\gamelab\desktop\project 1\lecture 12\homework 4.cpp(619): warning C4100: 'hwnd' : unreferenced formal parameter
+     1>c:\users\gamelab\desktop\project 1\lecture 12\homework 4.cpp(641): warning C4100: 'keyFlags' : unreferenced formal parameter
+     1>c:\users\gamelab\desktop\project 1\lecture 12\homework 4.cpp(641): warning C4100: 'y' : unreferenced formal parameter
+     1>c:\users\gamelab\desktop\project 1\lecture 12\homework 4.cpp(641): warning C4100: 'x' : unreferenced formal parameter
+     1>c:\users\gamelab\desktop\project 1\lecture 12\homework 4.cpp(641): warning C4100: 'fDoubleClick' : unreferenced formal parameter
+     1>c:\users\gamelab\desktop\project 1\lecture 12\homework 4.cpp(641): warning C4100: 'hwnd' : unreferenced formal parameter
+     1>c:\users\gamelab\desktop\project 1\lecture 12\homework 4.cpp(648): warning C4100: 'cRepeat' : unreferenced formal parameter
+     1>c:\users\gamelab\desktop\project 1\lecture 12\homework 4.cpp(648): warning C4100: 'ch' : unreferenced formal parameter
+     1>c:\users\gamelab\desktop\project 1\lecture 12\homework 4.cpp(648): warning C4100: 'hwnd' : unreferenced formal parameter
+     1>c:\users\gamelab\desktop\project 1\lecture 12\homework 4.cpp(655): warning C4100: 'keyFlags' : unreferenced formal parameter
+     1>c:\users\gamelab\desktop\project 1\lecture 12\homework 4.cpp(655): warning C4100: 'y' : unreferenced formal parameter
+     1>c:\users\gamelab\desktop\project 1\lecture 12\homework 4.cpp(655): warning C4100: 'x' : unreferenced formal parameter
+     1>c:\users\gamelab\desktop\project 1\lecture 12\homework 4.cpp(655): warning C4100: 'hwnd' : unreferenced formal parameter
+     1>c:\users\gamelab\desktop\project 1\lecture 12\homework 4.cpp(663): warning C4100: 'keyFlags' : unreferenced formal parameter
+     1>c:\users\gamelab\desktop\project 1\lecture 12\homework 4.cpp(663): warning C4100: 'y' : unreferenced formal parameter
+     1>c:\users\gamelab\desktop\project 1\lecture 12\homework 4.cpp(663): warning C4100: 'x' : unreferenced formal parameter
+     1>c:\users\gamelab\desktop\project 1\lecture 12\homework 4.cpp(663): warning C4100: 'hwnd' : unreferenced formal parameter
+     1>c:\users\gamelab\desktop\project 1\lecture 12\homework 4.cpp(699): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\gamelab\desktop\project 1\lecture 12\homework 4.cpp(709): warning C4100: 'lpCreateStruct' : unreferenced formal parameter
+     1>c:\users\gamelab\desktop\project 1\lecture 12\homework 4.cpp(724): warning C4100: 'id' : unreferenced formal parameter
+     1>c:\users\gamelab\desktop\project 1\lecture 12\homework 4.cpp(724): warning C4100: 'hwnd' : unreferenced formal parameter
+     1>c:\users\gamelab\desktop\project 1\lecture 12\homework 4.cpp(729): warning C4100: 'flags' : unreferenced formal parameter
+     1>c:\users\gamelab\desktop\project 1\lecture 12\homework 4.cpp(729): warning C4100: 'cRepeat' : unreferenced formal parameter
+     1>c:\users\gamelab\desktop\project 1\lecture 12\homework 4.cpp(729): warning C4100: 'fDown' : unreferenced formal parameter
+     1>c:\users\gamelab\desktop\project 1\lecture 12\homework 4.cpp(729): warning C4100: 'hwnd' : unreferenced formal parameter
+     1>c:\users\gamelab\desktop\project 1\lecture 12\homework 4.cpp(748): warning C4100: 'flags' : unreferenced formal parameter
+     1>c:\users\gamelab\desktop\project 1\lecture 12\homework 4.cpp(748): warning C4100: 'cRepeat' : unreferenced formal parameter
+     1>c:\users\gamelab\desktop\project 1\lecture 12\homework 4.cpp(748): warning C4100: 'fDown' : unreferenced formal parameter
+     1>c:\users\gamelab\desktop\project 1\lecture 12\homework 4.cpp(748): warning C4100: 'hwnd' : unreferenced formal parameter
+     1>c:\users\gamelab\desktop\project 1\lecture 12\homework 4.cpp(888): warning C4244: 'initializing' : conversion from 'long double' to 'long', possible loss of data
+     1>c:\users\gamelab\desktop\project 1\lecture 12\homework 4.cpp(904): warning C4244: 'argument' : conversion from 'long' to 'float', possible loss of data
+     1>c:\users\gamelab\desktop\project 1\lecture 12\homework 4.cpp(938): warning C4244: '=' : conversion from 'double' to 'FLOAT', possible loss of data
+     1>c:\users\gamelab\desktop\project 1\lecture 12\homework 4.cpp(939): warning C4244: '=' : conversion from 'double' to 'FLOAT', possible loss of data
+     1>c:\users\gamelab\desktop\project 1\lecture 12\homework 4.cpp(943): warning C4244: '=' : conversion from 'double' to 'FLOAT', possible loss of data
+     1>c:\users\gamelab\desktop\project 1\lecture 12\homework 4.cpp(944): warning C4244: '=' : conversion from 'double' to 'FLOAT', possible loss of data
+     1>c:\users\gamelab\desktop\project 1\lecture 12\homework 4.cpp(948): warning C4244: '=' : conversion from 'double' to 'FLOAT', possible loss of data
+     1>c:\users\gamelab\desktop\project 1\lecture 12\homework 4.cpp(954): warning C4244: '=' : conversion from 'double' to 'FLOAT', possible loss of data
+     1>c:\users\gamelab\desktop\project 1\lecture 12\homework 4.cpp(955): warning C4244: '=' : conversion from 'double' to 'FLOAT', possible loss of data
+     1>c:\users\gamelab\desktop\project 1\lecture 12\homework 4.cpp(959): warning C4244: '=' : conversion from 'double' to 'FLOAT', possible loss of data
+     1>c:\users\gamelab\desktop\project 1\lecture 12\homework 4.cpp(960): warning C4244: '=' : conversion from 'double' to 'FLOAT', possible loss of data
+     1>c:\users\gamelab\desktop\project 1\lecture 12\homework 4.cpp(969): warning C4244: '=' : conversion from 'double' to 'FLOAT', possible loss of data
+     1>c:\users\gamelab\desktop\project 1\lecture 12\homework 4.cpp(970): warning C4244: '=' : conversion from 'double' to 'FLOAT', possible loss of data
+     1>c:\users\gamelab\desktop\project 1\lecture 12\homework 4.cpp(974): warning C4244: '=' : conversion from 'double' to 'FLOAT', possible loss of data
+     1>c:\users\gamelab\desktop\project 1\lecture 12\homework 4.cpp(975): warning C4244: '=' : conversion from 'double' to 'FLOAT', possible loss of data
+     1>c:\users\gamelab\desktop\project 1\lecture 12\homework 4.cpp(979): warning C4244: '=' : conversion from 'double' to 'FLOAT', possible loss of data
+     1>c:\users\gamelab\desktop\project 1\lecture 12\homework 4.cpp(984): warning C4244: '=' : conversion from 'double' to 'FLOAT', possible loss of data
+     1>c:\users\gamelab\desktop\project 1\lecture 12\homework 4.cpp(989): warning C4244: '=' : conversion from 'double' to 'FLOAT', possible loss of data
+     1>c:\users\gamelab\desktop\project 1\lecture 12\homework 4.cpp(990): warning C4244: '=' : conversion from 'double' to 'FLOAT', possible loss of data
+     1>c:\users\gamelab\desktop\project 1\lecture 12\homework 4.cpp(994): warning C4244: '=' : conversion from 'double' to 'FLOAT', possible loss of data
+     1>c:\users\gamelab\desktop\project 1\lecture 12\homework 4.cpp(1000): warning C4244: '=' : conversion from 'double' to 'FLOAT', possible loss of data
+     1>c:\users\gamelab\desktop\project 1\lecture 12\homework 4.cpp(1004): warning C4244: '=' : conversion from 'double' to 'FLOAT', possible loss of data
+     1>c:\users\gamelab\desktop\project 1\lecture 12\homework 4.cpp(1010): warning C4244: '=' : conversion from 'double' to 'FLOAT', possible loss of data
+     1>c:\users\gamelab\desktop\project 1\lecture 12\homework 4.cpp(1014): warning C4244: '=' : conversion from 'double' to 'FLOAT', possible loss of data
+     1>c:\users\gamelab\desktop\project 1\lecture 12\homework 4.cpp(1015): warning C4244: '=' : conversion from 'double' to 'FLOAT', possible loss of data
+     1>c:\users\gamelab\desktop\project 1\lecture 12\homework 4.cpp(1020): warning C4244: '=' : conversion from 'double' to 'FLOAT', possible loss of data
+     1>c:\users\gamelab\desktop\project 1\lecture 12\homework 4.cpp(1025): warning C4244: '=' : conversion from 'double' to 'FLOAT', possible loss of data
+     1>c:\users\gamelab\desktop\project 1\lecture 12\homework 4.cpp(1029): warning C4244: '=' : conversion from 'double' to 'FLOAT', possible loss of data
+     1>c:\users\gamelab\desktop\project 1\lecture 12\homework 4.cpp(1034): warning C4244: '=' : conversion from 'double' to 'FLOAT', possible loss of data
+     1>c:\users\gamelab\desktop\project 1\lecture 12\homework 4.cpp(1035): warning C4244: '=' : conversion from 'double' to 'FLOAT', possible loss of data
+     1>c:\users\gamelab\desktop\project 1\lecture 12\homework 4.cpp(1039): warning C4244: '=' : conversion from 'double' to 'FLOAT', possible loss of data
+     1>c:\users\gamelab\desktop\project 1\lecture 12\homework 4.cpp(1044): warning C4244: '=' : conversion from 'double' to 'FLOAT', possible loss of data
+     1>c:\users\gamelab\desktop\project 1\lecture 12\homework 4.cpp(1049): warning C4244: '=' : conversion from 'double' to 'FLOAT', possible loss of data
+     1>c:\users\gamelab\desktop\project 1\lecture 12\homework 4.cpp(1050): warning C4244: '=' : conversion from 'double' to 'FLOAT', possible loss of data
+     1>c:\users\gamelab\desktop\project 1\lecture 12\homework 4.cpp(1055): warning C4244: '=' : conversion from 'double' to 'FLOAT', possible loss of data
+     1>c:\users\gamelab\desktop\project 1\lecture 12\homework 4.cpp(1064): warning C4244: '=' : conversion from 'double' to 'FLOAT', possible loss of data
+     1>c:\users\gamelab\desktop\project 1\lecture 12\homework 4.cpp(1069): warning C4244: '=' : conversion from 'double' to 'FLOAT', possible loss of data
+     1>c:\users\gamelab\desktop\project 1\lecture 12\homework 4.cpp(1074): warning C4244: '=' : conversion from 'double' to 'FLOAT', possible loss of data
+     1>c:\users\gamelab\desktop\project 1\lecture 12\homework 4.cpp(1079): warning C4244: '=' : conversion from 'double' to 'FLOAT', possible loss of data
+     1>c:\users\gamelab\desktop\project 1\lecture 12\homework 4.cpp(1084): warning C4244: '=' : conversion from 'double' to 'FLOAT', possible loss of data
+     1>c:\users\gamelab\desktop\project 1\lecture 12\homework 4.cpp(1090): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\gamelab\desktop\project 1\lecture 12\homework 4.cpp(1127): warning C4018: '<' : signed/unsigned mismatch
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\gamelab\Desktop\Project 1\lecture 12\Debug\homework 4.exe" /INCREMENTAL /NOLOGO d3d11.lib d3dcompiler.lib d3dx11d.lib d3dx9d.lib dxerr.lib dxguid.lib winmm.lib comctl32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"C:\Users\gamelab\Desktop\Project 1\lecture 12\Debug\homework 4.pdb" /SUBSYSTEM:WINDOWS /LARGEADDRESSAWARE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\gamelab\Desktop\Project 1\lecture 12\Debug\homework 4.lib" /MACHINE:X86 /SAFESEH  "Debug\homework 8.res"
+         "Debug\homework 4.obj"
+         lecture 8_2010.vcxproj -> C:\Users\gamelab\Desktop\Project 1\lecture 12\Debug\homework 4.exe
+     1>Done Building Project "C:\Users\gamelab\Desktop\Project 1\lecture 12\lecture 8_2010.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.25
